@@ -1,1 +1,14 @@
-/*  your css code here. If applicable */
+.book-library>div{
+
+	background:#f8f8f8
+}
+.book{
+	background:#ffffff;
+}
+.book > span{
+	font-color:#777777;
+}
+.price{
+	display:block;
+	background: #2ecc71;
+}
